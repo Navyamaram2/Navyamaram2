@@ -1,7 +1,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Navyamaram2/Navyamaram2/main/banner.png" alt="Banner" style="border-radius: 12px;" />
+  <img src="https://raw.githubusercontent.com/Navyamaram2/Navyamaram2/main/banner.png" alt="Banner" width="40%" style="border-radius:20px;box-shadow: 0 4px 24px rgba(0,0,0,0.16);"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Maram Navya</h1>
